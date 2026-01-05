@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Testimonials-Slider.git
+    git clone https://github.com/abhishekgurjarin/Testimonials-Slider.git
     ```
 
 2. **Open the project directory**:
@@ -45,7 +45,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Testimonials Slider [here](https://abhishekboadgurjar.github.io/Testimonials-Slider/).
+You can check out the live demo of the Testimonials Slider [here](https://abhishekgurjarin.github.io/Testimonials-Slider/).
 
 ## Screenshots
 ![Screenshot 2024-08-23 224407](https://github.com/user-attachments/assets/2f7887de-6e2d-4db1-91b0-d54d97fad538)
@@ -61,4 +61,4 @@ This project was developed as part of my continuous learning journey in web deve
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
